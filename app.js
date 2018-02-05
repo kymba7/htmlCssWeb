@@ -1,0 +1,1 @@
+var animal=document.getElementById("puppy").innerText="Woof";
